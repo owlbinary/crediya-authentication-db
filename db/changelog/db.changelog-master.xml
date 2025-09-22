@@ -10,5 +10,6 @@
     <include file="versions/v1.0.0/002-create-table-usuario.sql" relativeToChangelogFile="true"/>
     <include file="versions/v1.0.0/003-add-foreign-keys.sql" relativeToChangelogFile="true"/>
     <include file="versions/v1.0.0/004-insert-roles.sql" relativeToChangelogFile="true"/>
+    <include file="versions/v1.0.0/005-insert-admin.sql" relativeToChangelogFile="true"/>
 
 </databaseChangeLog>
